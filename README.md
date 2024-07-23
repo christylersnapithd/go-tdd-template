@@ -1,2 +1,2 @@
-# em-ai-wrapper
-Modular Wrapper written in go to allow interaction  of the AI with Engagement 
+# go tdd template
+This is a template I've generated to help me with using TDD in my go programs.
